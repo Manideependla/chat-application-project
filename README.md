@@ -19,7 +19,7 @@ $ mongod --version
 2. Open your terminal and run the following -
 
 ```cmd
-$ git clone https://github.com/Manideependla/manideep-chat-application.git
+$ git clone https://github.com/Manideependla/chat-application-project.git
 $ cd chat-application
 $ npm install
 $ node server.js
